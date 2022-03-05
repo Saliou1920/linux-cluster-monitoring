@@ -3,7 +3,7 @@
 ## Introduction
 
 The purpose of this project is to design and implement a cluster that will help the Jarvis Linux Cluster Administration team to manage multiple Linux clusters running on CENTOS 7.
-This project is going to allow the LCA to keep track of each node’s hardware characteristics and monitor resource utilization in real time saved in a relational database management system. This project is built using Linux command lines, Bash scripts, PostgreSQL, Docker and Git
+This project is going to allow the LCA to keep track of each node’s hardware characteristics and monitor resource utilization in real time saved in a relational database management system. This project is built using Linux command lines, Bash scripts, PostgreSQL, Docker and Git.
 
 ## Table of contents
 
